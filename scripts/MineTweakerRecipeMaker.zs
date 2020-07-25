@@ -26,7 +26,7 @@ recipes.removeShaped(<mysticalagriculture:redstone_seeds>, [[<minecraft:redstone
 recipes.removeShaped(<mysticalagriculture:nether_quartz_seeds>, [[<ore:gemQuartz>, <ore:essenceIntermedium>, <ore:gemQuartz>], [<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <ore:essenceIntermedium>], [<ore:gemQuartz>, <ore:essenceIntermedium>, <ore:gemQuartz>]]);
 recipes.removeShaped(<mysticalagriculture:iron_seeds>, [[<ore:ingotIron>, <ore:essenceIntermedium>, <ore:ingotIron>], [<ore:essenceIntermedium>, <mysticalagriculture:crafting:19>, <ore:essenceIntermedium>], [<ore:ingotIron>, <ore:essenceIntermedium>, <ore:ingotIron>]]);
 recipes.removeShaped(<mysticalagriculture:coal_seeds>, [[<minecraft:coal>, <ore:essencePrudentium>, <ore:itemCoal>], [<mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:18>, <mysticalagriculture:crafting:1>], [<minecraft:coal>, <mysticalagriculture:crafting:1>, <ore:itemCoal>]]);
-
+recipes.removeShaped(<mysticalagriculture:tier1_inferium_seeds>, [[<ore:essenceInferium>, <ore:essenceInferium>, <mysticalagriculture:crafting>], [<ore:essenceInferium>, <minecraft:wheat_seeds>, <ore:essenceInferium>], [<ore:essenceInferium>, <ore:essenceInferium>, <ore:essenceInferium>]]);
 // ================================================================================
 //#MARKER ADD
 
